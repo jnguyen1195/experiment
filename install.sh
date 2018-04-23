@@ -1,4 +1,4 @@
-git checkout ssh://git@github.com:jnguyen1195/experiment.git
+git clone ssh://git@github.com/jnguyen1195/experiment.git
 
 sudo pip install virtualenv
 virtualenv venv
